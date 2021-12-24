@@ -1,4 +1,4 @@
-### Assignment
+### About Assignment
 
 Create a function named `calculate()` in `mean_var_std.py` that uses Numpy to output the mean, variance, standard deviation, max, min, and sum of the rows, columns, and elements in a 3 x 3 matrix. 
 
@@ -32,14 +32,8 @@ For example, `calculate([0,1,2,3,4,5,6,7,8])` should return:
 
 The unit tests for this project are in `test_module.py`.
 
-### Development
+### Access Project
+[Mean, Variance, Standard Deviation Calculator](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/mean-variance-standard-deviation-calculator)
+### Access Replit
 
-For development, you can use `main.py` to test your `calculate()` function. Click the "run" button and `main.py` will run.
-
-### Testing 
-
-We imported the tests from `test_module.py` to `main.py` for your convenience. The tests will run automatically whenever you hit the "run" button.
-
-### Submitting
-
-Copy your project's URL and submit it to freeCodeCamp.
+[Mean, Variance, Standard Deviation Calculator](https://replit.com/@sharmas1ddharth/boilerplate-mean-variance-standard-deviation-calculator#main.py)
