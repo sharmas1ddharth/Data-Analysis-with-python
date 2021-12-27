@@ -1,6 +1,8 @@
 # Data Analysis with Python
 This repository contains code and notebooks for Freecodecamp's Data Analysis with Python Projects.
+
 Access the project code on [replit](https://replit.com/@sharmas1ddharth) 
+
 Access the certification course [here](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
 ## Projects included in this course
