@@ -22,6 +22,7 @@ The rows in the dataset represent patients and the columns represent information
 ### Analysis Result
 
 **Catplot**
+
 ![](https://github.com/sharmas1ddharth/Data-Analysis-with-python/blob/main/Medical-data-visualizer/figures/cat-plot.png)
 
 **HeatMap**
