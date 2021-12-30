@@ -9,18 +9,19 @@ The dataset contains the following columns:
 | Date | Date from when the views are collected |
 | Value | Forum Page views |
 
+View Notebook [here](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/4TgeJ2r11SFhhs3W5dIn2u/)
+
 ### Results
 
 **Lineplot**
 
-![]()
+![](https://github.com/sharmas1ddharth/Data-Analysis-with-python/blob/main/Freecodecamp-forum-page-views-time-series-visualizer/Figures/line_plot.png)
 
 **Barplot**
 
-![]()
+![](https://github.com/sharmas1ddharth/Data-Analysis-with-python/blob/main/Freecodecamp-forum-page-views-time-series-visualizer/Figures/bar_plot.png)
 
 **Boxplot**
 
-![]()
-
+![](https://github.com/sharmas1ddharth/Data-Analysis-with-python/blob/main/Freecodecamp-forum-page-views-time-series-visualizer/Figures/box_plot.png)
 
