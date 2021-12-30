@@ -8,7 +8,7 @@ Access the certification course [here](https://www.freecodecamp.org/learn/data-a
 ## Projects included in this course
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Mean-Variance-Standard_Deviation_Calculator)
 - [Demographic Data Analyzer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Demographic-data-analysis)
-- Medical Data Visualizer
+- [Medical Data Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Medical-data-visualizer)
 - Page View Time Series Visualizer
 - Sea Level Predictor
 
