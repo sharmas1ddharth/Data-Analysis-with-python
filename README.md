@@ -10,7 +10,7 @@ Access the certification course [here](https://www.freecodecamp.org/learn/data-a
 - [Demographic Data Analyzer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Demographic-data-analysis)
 - [Medical Data Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Medical-data-visualizer)
 - [Page View Time Series Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Freecodecamp-forum-page-views-time-series-visualizer)
-- Sea Level Predictor
+- [Sea Level Predictor](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Sea-level-predictor)
 
 ## Analysis Notebook links
 
@@ -18,5 +18,9 @@ Access the certification course [here](https://www.freecodecamp.org/learn/data-a
 - [Medical Data Visualizer](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/waxUSxyZPCsSaf3ngdKWTI/)
 
 - [Page View Time Series Visualizer](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/4TgeJ2r11SFhhs3W5dIn2u/)
+
+- [Sea Level Predictor](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/X0xwgACMQiUlZBN45A4sUf)
+
+
 ## License
 Distributed under the MIT License. See LICENSE.txt for more information.

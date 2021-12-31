@@ -17,7 +17,7 @@ View Notebook on [Datalore](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDd
 
 ## Result
 
-![]()
+![](https://github.com/sharmas1ddharth/Data-Analysis-with-python/blob/main/Sea-level-predictor/Figure/sea_level_plot.png)
 
 ## Data Source
 

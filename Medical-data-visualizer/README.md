@@ -1,6 +1,9 @@
-### Medical Data Visualizer
+# Medical Data Visualizer
 
-#### Data description
+Access Notebook on [Datalore](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/waxUSxyZPCsSaf3ngdKWTI)
+
+Access Code on [Replit](https://replit.com/@sharmas1ddharth/Medical-Data-Visualizer)
+## Data description
 
 The rows in the dataset represent patients and the columns represent information like body measurements, results from various blood tests, and lifestyle choices. You will use the dataset to explore the relationship between cardiac disease, body measurements, blood markers, and lifestyle choices.
 
@@ -19,7 +22,7 @@ The rows in the dataset represent patients and the columns represent information
 | Physical activity | Subjective Feature | active | binary |
 | Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
 
-### Analysis Result
+## Analysis Result
 
 **Catplot**
 

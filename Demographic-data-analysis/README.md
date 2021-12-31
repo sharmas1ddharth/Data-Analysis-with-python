@@ -1,5 +1,3 @@
-### Assignment
-
 # Demographic Data Analyzer
 
 The Demographic Data contains the following columns:
@@ -22,7 +20,9 @@ The Demographic Data contains the following columns:
 | salary | Salary of a person |
 | fnlwgt | - |
 
-Access the analysis notebook [here](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/8yJ26q6QeqTJFmsGTvVldS/)
+Access the analysis notebook on [Datalore](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/8yJ26q6QeqTJFmsGTvVldS/)
+
+Access the code on [Replit](https://replit.com/@sharmas1ddharth/Demographic-Data-Analyzer?v=1)
 
 ### Analysis Result
 - **Count of people from each race:**
