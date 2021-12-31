@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Data Analysis with Python
+This repository contains code and notebooks for Freecodecamp's Data Analysis with Python Projects.
 
-You can use the [editor on GitHub](https://github.com/sharmas1ddharth/Data-Analysis-with-python/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Access the project code on [replit](https://replit.com/@sharmas1ddharth) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Access the certification course [here](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-### Markdown
+## Projects included in this course
+- [Mean-Variance-Standard Deviation Calculator](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Mean-Variance-Standard_Deviation_Calculator)
+- [Demographic Data Analyzer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Demographic-data-analysis)
+- [Medical Data Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Medical-data-visualizer)
+- [Page View Time Series Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Freecodecamp-forum-page-views-time-series-visualizer)
+- [Sea Level Predictor](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Sea-level-predictor)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Analysis Notebook links
 
-```markdown
-Syntax highlighted code block
+- [Demographic Data Analysis](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/8yJ26q6QeqTJFmsGTvVldS/)
+- [Medical Data Visualizer](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/waxUSxyZPCsSaf3ngdKWTI/)
 
-# Header 1
-## Header 2
-### Header 3
+- [Page View Time Series Visualizer](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/4TgeJ2r11SFhhs3W5dIn2u/)
 
-- Bulleted
-- List
+- [Sea Level Predictor](https://datalore.jetbrains.com/notebook/jGVfrtnn5vDdWyQIY8plrD/X0xwgACMQiUlZBN45A4sUf)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sharmas1ddharth/Data-Analysis-with-python/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## License
+Distributed under the MIT License. See LICENSE.txt for more information.
