@@ -5,7 +5,7 @@ Access the project code on [replit](https://replit.com/@sharmas1ddharth)
 
 Access the certification course [here](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-## Projects included in this course
+## Projects Links
 - [Mean-Variance-Standard Deviation Calculator](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Mean-Variance-Standard_Deviation_Calculator)
 - [Demographic Data Analyzer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Demographic-data-analysis)
 - [Medical Data Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Medical-data-visualizer)
