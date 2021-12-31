@@ -5,12 +5,12 @@ Access the project code on [replit](https://replit.com/@sharmas1ddharth)
 
 Access the certification course [here](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 
-## Projects Links
-- [Mean-Variance-Standard Deviation Calculator](https://github.com/sharmas1ddharth/Data-Analysis-with-python/edit/gh-pages/mean.md)
-- [Demographic Data Analyzer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/edit/gh-pages/demographic.md)
-- [Medical Data Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/edit/gh-pages/medical.md)
-- [Page View Time Series Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/edit/gh-pages/views.md)
-- [Sea Level Predictor](https://github.com/sharmas1ddharth/Data-Analysis-with-python/edit/gh-pages/sea.md)
+## Projects included in this course
+- [Mean-Variance-Standard Deviation Calculator](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Mean-Variance-Standard_Deviation_Calculator)
+- [Demographic Data Analyzer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Demographic-data-analysis)
+- [Medical Data Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Medical-data-visualizer)
+- [Page View Time Series Visualizer](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Freecodecamp-forum-page-views-time-series-visualizer)
+- [Sea Level Predictor](https://github.com/sharmas1ddharth/Data-Analysis-with-python/tree/main/Sea-level-predictor)
 
 ## Analysis Notebook links
 
